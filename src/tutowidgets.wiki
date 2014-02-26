@@ -72,7 +72,7 @@ let _ =
 To compile it, first create a project by calling
 
 {{{
-  eliom-distillery -name ex
+  eliom-destillery -name ex
 }}}
 
 The name of the project must match the name given to the functor
